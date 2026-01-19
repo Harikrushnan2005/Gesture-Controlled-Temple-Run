@@ -1,0 +1,5 @@
+Right - close right hand ✊
+Left - close left hand ✊
+Jump - V sign on right hand ✌️
+Roll(down) - V sign on the left hand ✌️
+head tilt to navigate left and right.
